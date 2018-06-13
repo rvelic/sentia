@@ -25,6 +25,9 @@
     },
     "subnet3Prefix": {
       "value": "172.16.2.0/24"
+    },
+    "storageAccountPrefix": {
+      "value": "sentia"
     }
   }
 }
